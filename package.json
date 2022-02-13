@@ -65,5 +65,7 @@
       "**/hardhat-ts/**"
     ]
   },
-  "dependencies": {}
+  "dependencies": {
+    "verify-on-etherscan": "^1.2.1"
+  }
 }
